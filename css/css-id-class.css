@@ -1,0 +1,13 @@
+#my-block {
+background-color:pink;
+width: 500px;
+height : 300px;
+}
+
+.centered {
+background-color: darkgray;
+text-align: center;
+margin: 30px 0 30px 0;
+padding: 15px 15px 15px 15px;
+color:red;
+}

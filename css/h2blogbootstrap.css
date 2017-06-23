@@ -1,0 +1,11 @@
+h2 {
+ text-align: center;
+ text-decoration: underline;
+ }
+
+.table{
+width: 100%;
+border:1;
+padding:1;
+spacing:1;
+}
